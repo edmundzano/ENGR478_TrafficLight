@@ -15,4 +15,5 @@ The project creates a simulation of a traffic light, which controls flow of traf
 <h4> Results of Project </h4>
 The link that is provided below is the video to demonstrate the results of our project. The simulation is a continuous loop of the light turning on from the East/West Direction of cars and pedestrian crossing to the North/South direction.
 
-https://drive.google.com/file/d/1kpBDTwzpZImwBYgF6U_FX86WS8rT6iO5/view?usp=sharing
+
+<a href="https://drive.google.com/file/d/1kpBDTwzpZImwBYgF6U_FX86WS8rT6iO5/view?usp=sharing">Traffic Light Simulation Video Demo</a>
