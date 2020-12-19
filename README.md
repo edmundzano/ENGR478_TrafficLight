@@ -1,2 +1,2 @@
-# ENGR478_TrafficLight
-GitHub Pages for ENGR478 Final Project
+# ENGR478 Traffic Light
+Welcome to the Traffic Light Project website!
