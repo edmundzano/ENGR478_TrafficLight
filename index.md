@@ -12,7 +12,7 @@ The project creates a simulation of a traffic light, which controls flow of traf
 <h4> Traffic Lights Diagram </h4>
 <img src="images/TrafficLights_Diagram.PNG" width="400" height="400">
 
-<h4> Results of Project </h4>
+<h2> Results of Project </h2>
 The link that is provided below is the video to demonstrate the results of our project. The simulation is a continuous loop of the light turning on from the East/West Direction of cars and pedestrian crossing to the North/South direction.
 
 
